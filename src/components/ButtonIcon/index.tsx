@@ -6,6 +6,7 @@ import {
 import DiscordPng  from '../../assets/discord.png';
 import { styles } from "./style";
 
+// pq ficou esse riscado?
 type Props = TouchableOpacityProperties & {
     title: string;  
 }
