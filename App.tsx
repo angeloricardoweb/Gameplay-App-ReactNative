@@ -1,9 +1,8 @@
-import React from "react";
-import { View, Text, } from "react-native";
-import { Signin } from "./src/screens/Signin";
+import React from 'react';
+import SignIn from './src/screens/SignIn';
+
 export default function App() {
   return (
-    <Signin/>   
-
-  )
+    <SignIn/>
+  );
 }
